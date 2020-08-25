@@ -1,0 +1,6 @@
+{
+  "main.js": "main.sentiment.js",
+  "index.html": "index.html",
+  "service-worker.js": "service-worker.js",
+  "workbox-468c4d03.js": "workbox-468c4d03.js"
+}

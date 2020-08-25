@@ -1,0 +1,61 @@
+@import url("mini-style.scss")(max-width:300px);
+@import url("ipad.scss") (max-width:760px)and (min-width:300px);
+
+@media(min-width:780px){
+body{
+    background-color:lightcyan;
+    margin:0px;
+}
+
+#app{
+    margin-left: 10vw;
+}
+
+#wave{
+    width:100%;
+    height: 100%;
+    margin-left: 10vw;
+    margin-bottom: 10vh;
+}
+
+.holder-headline{
+color: darkorange;
+font-size: 60px;
+}
+
+#destination{
+
+}
+
+#from{
+width: 70%;
+font-size: 20px;
+}
+
+#to{
+width: 70%;
+font-size: 20px;
+}
+
+label{
+    font-size: 20px;
+    width:40%;
+}
+
+input[type=submit]{
+    background-color: dodgerblue;
+    border-radius: 3px;
+    width: 150px;
+    font-size: 25px;
+    margin-top:3vh;
+}
+
+.card{
+    background-color: dodgerblue;
+    width:80%;
+    color:whitesmoke;
+    border-radius: 20px;
+    
+}
+
+    }
