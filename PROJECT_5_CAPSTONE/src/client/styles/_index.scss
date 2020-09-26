@@ -1,5 +1,5 @@
-@import url("mini-style.scss")(max-width:300px);
-@import url("ipad.scss") (max-width:760px)and (min-width:300px);
+@import "./mini-style";
+@import "ipad.scss";
 
 @media(min-width:780px){
 body{
